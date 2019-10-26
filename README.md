@@ -1,7 +1,7 @@
 # UTKALHACKS
 
-webpage for presenting the database of Mr.bin in a web.
+Webpage for presenting the database of Mr.Bin in a web.
  
  #Why this web page ?
- This web page is actually used for presenting the database of our Mr.Bin to the organigation which are handaling Mr.Bin.
+ This web page is actually used for presenting the database of our Mr.Bin to the organisation which are handling Mr.Bin.
  
